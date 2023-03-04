@@ -16,9 +16,13 @@ Replace all namespace "terrechild" with your desired namespace slug.
 
 Use the scripts/editor.js file to customize block styles if desired.
 
+Add custom settings and styles to the child Theme.json to override Terre defaults.
+
+Create pattern and template overrides as needed.
+
 == Changelog ==
 
-= 0.0.1 =
+= 0.1.0 =
 * Initial release
 
 == Copyright ==
