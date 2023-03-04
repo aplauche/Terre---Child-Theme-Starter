@@ -12,7 +12,7 @@ Child theme starter of the Terre WP ecosystem
 
 == Instructions ==
 
-Replace all namespace "childtheme" with your desired namespace slug.
+Replace all namespace "terrechild" with your desired namespace slug.
 
 Use the scripts/editor.js file to customize block styles if desired.
 

@@ -7,15 +7,15 @@ wp.domReady( () => {
 
   // Add our custom block styles
   const stylesToAdd = [
-    {
-      "block": "core/cover",
-      "styles": [
-        {
-          "name": "rounded",
-          "label": "Rounded",
-        }
-      ]
-    }
+    // {
+    //   "block": "core/cover",
+    //   "styles": [
+    //     {
+    //       "name": "rounded",
+    //       "label": "Rounded",
+    //     }
+    //   ]
+    // }
   ]
 
 
